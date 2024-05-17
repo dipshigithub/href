@@ -7,3 +7,4 @@ git remote -v (optional to check .2)
 git status (optional)
 git add .
 git commit -m "html-css"
+git push
