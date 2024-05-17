@@ -1,0 +1,53 @@
+body{
+    padding: 0;
+
+}
+.heading{
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+}
+#active{
+    color: blue;
+}
+.highlight{
+    background-color: pink;
+}
+.heading:hover{
+    text-transform: lowercase;
+}
+.bold{
+ font-weight: bold;
+}
+.underline{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a{
+    color: blue;
+}
+.path:hover{
+    text-transform: uppercase;
+    color: pink;
+}
+footer li{
+    display: inline;
+    list-style-type: none;
+
+}
+footer ul{
+    padding: 0;
+}
+
+.facebook{
+    color: red;
+}
+.ig{
+    text-decoration: none;
+} 
+.box{
+    border: 1px solid;
+}
